@@ -149,8 +149,8 @@ implementations on random inputs.
 
 ## Notes
 
-- **Tuples** — HackerRank requires the language **PyPy 3** for this challenge (expected hash 3713081631934410656 for the sample).
-- **Numpy** (Arrays, Eye and Identity, Floor, Ceil and Rint, Mean, Var, and Std) — `numpy.set_printoptions(legacy='1.13')` makes float arrays print in the old
+- **Tuples** — Prints the hash HackerRank expects (3713081631934410656 for the sample) in both Python 3 and PyPy 3.
+- **Numpy** (Arrays, Eye and Identity, Floor, Ceil and Rint) — `numpy.set_printoptions(legacy='1.13')` makes float arrays print in the old
   format (`[ 1.  0.]`) that HackerRank's expected output uses.
 
 ## Academic honesty
